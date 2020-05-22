@@ -1,0 +1,45 @@
+input {
+    width: 45%;
+    padding: 12px 20px;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+}
+
+* {
+    background-color: darkgray;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #FFF;
+}
+
+button {
+    width: 73px;
+    height: 40px;
+    background-color: tomato;
+    opacity: 0.8;
+    border: 0;
+    color: #FFF;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: tomato;
+    opacity: 1;
+}
+
+input {
+    color: #fff;
+    background-color: black;
+    border: 0;
+}
+
+.photo {
+    background-color: black;
+}
